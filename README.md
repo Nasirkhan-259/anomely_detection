@@ -49,3 +49,5 @@ You can install the required libraries using:
 
 ```bash
 pip install numpy matplotlib
+```
+- developed by nasir.developer259@gmail.com for Assesment Purpose only
